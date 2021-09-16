@@ -1,4 +1,4 @@
-# [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rgottleber/hello_solidity)
+# [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/rgottleber/solidity_svelte_starter)
 
 # Clone this repo and use it as a template for Solidity and Svelte Development
 
